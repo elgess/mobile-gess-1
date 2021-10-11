@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">gessLaba1</string>
+    <string name="edit_hint">Введите набор чисел через пробел</string>
+    <string name="result_hint">Результат</string>
+    <string name="enter">ENTER</string>
+</resources>
